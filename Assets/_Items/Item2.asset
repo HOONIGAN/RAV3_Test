@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 419f0063028144c2901e5d3cb3543ab9, type: 3}
+  m_Name: Item2
+  m_EditorClassIdentifier: 
+  id: 2
+  name: SecondItem
+  weight: 20
+  color: {r: 1, g: 0.5348799, b: 0.5254902, a: 1}
+  prefab: {fileID: 896028497495373944, guid: a0935efc1c2c7414c8f70d053d8c3cfd, type: 3}
