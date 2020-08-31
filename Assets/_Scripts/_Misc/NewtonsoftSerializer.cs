@@ -6,8 +6,7 @@ namespace PopovMaks.RAV3_Test
     {
         public string Serialize<T>(T obj)
         {
-            var json = JsonConvert.SerializeObject(obj);
-            return json;
+            return JsonConvert.SerializeObject(obj);
         }
 
         public T Deserialize<T>(string json)
